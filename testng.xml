@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test
+        verbose="2"
+        preserve-order="true"
+        name="/Users/aylinbekem/IdeaProjects/Google2/target/default-report.html">
+        <classes>
+            <class name="org.Google.stepdefinitions.Amazon">
+                <methods>
+
+                </methods>
+            </class>
+
+        </classes>
+</test>
+</suite>
